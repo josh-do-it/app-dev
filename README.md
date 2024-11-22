@@ -1,9 +1,5 @@
-# app-dev
-my first repositry | Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text | 
-```
+Josh's first repositry 
+
 {
   "firstName": "Josh",
   "lastName": "largo",
